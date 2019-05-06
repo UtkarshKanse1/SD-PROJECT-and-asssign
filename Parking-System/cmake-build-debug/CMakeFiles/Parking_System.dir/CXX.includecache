@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/prase/CLionProjects/Parking-System/main.cpp
+iostream
+-
+sqlite3.h
+-
+stdlib.h
+-
+string
+-
+sstream
+-
+cstring
+-
+

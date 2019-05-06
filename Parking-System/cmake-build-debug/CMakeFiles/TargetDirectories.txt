@@ -1,0 +1,3 @@
+C:/Users/prase/CLionProjects/Parking-System/cmake-build-debug/CMakeFiles/Parking_System.dir
+C:/Users/prase/CLionProjects/Parking-System/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/prase/CLionProjects/Parking-System/cmake-build-debug/CMakeFiles/rebuild_cache.dir
